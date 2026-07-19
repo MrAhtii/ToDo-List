@@ -6,8 +6,8 @@ A sleek, responsive, and lightweight web-based To-Do application built using van
 
 ## 🔗 Live Demo & Repository
 
-*   **🌐 Live Link:** [View Live Site]
-*   **📂 GitHub Repository:** [Browse Source Code]
+*   **🌐 Live Link:** [https://mrahtii.github.io/ToDo-List/]
+*   **📂 GitHub Repository:** [https://github.com/MrAhtii/ToDo-List]
 
 ---
 
